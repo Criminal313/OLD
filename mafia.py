@@ -406,7 +406,7 @@ __________________×______________________
   
   WhatsApp : +93783361438
   
-  tool update : 5.9
+  tool update : 6.5
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -497,7 +497,7 @@ class Main:
 
 	def api(self, uid, pwx):
 		rua = random.choice([
-			"Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]",
+			"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]",
 			  "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)",
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E; GWX:QUALIFIED)",
@@ -799,19 +799,19 @@ class Main:
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
   "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
-  "Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)",
-  "Dalvik/2.1.0 (Linux; U; Android 7.1.2; AFTMM Build/NS6264) CTV",
-  "Dalvik/2.1.0 (Linux; U; Android 9; SM-N950U Build/PPR1.180610.011)",
-  "Dalvik/1.6.0 (Linux; U; Android 4.4.4; WT19M-FI Build/KTU84Q)",
-  "Dalvik/2.1.0 (Linux; U; Android 9; SM-N960U Build/PPR1.180610.011)",
-  "Dalvik/2.1.0 (Linux; U; Android 9; SM-G955U Build/PPR1.180610.011)",
-  "Dalvik/2.1.0 (Linux; U; Android 10; SM-G965U Build/QP1A.190711.020)",
-  "Dalvik/2.1.0 (Linux; U; Android 10; SM-G965U Build/QP1A.190711.020)",
-  "Dalvik/2.1.0 (Linux; U; Android 10; SM-N960U Build/QP1A.190711.020)",
-  "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975U Build/QP1A.190711.020)",
-  "Dalvik/2.1.0 (Linux; U; Android 7.1.2; AFTBAMR311 Build/NS6264) CTV",
-  "Dalvik/2.1.0 (Linux; U; Android 9; SM-A102U Build/PPR1.180610.011)",
-  "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G935V Build/R16NW)",
+  "Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
   "Mozilla/5.0 (Linux; U; Android 4.4.4; sk-sk; SAMSUNG SM-G357FZ/G357FZXXU1AQJ1 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
   "Mozilla/5.0 (Linux; U; Android 4.4.2; pl-pl; SM-T310 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
   "Mozilla/5.0 (Linux; U; Android 4.2.2;pl-pl; Lenovo S5000-F/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2.2 Mobile Safari/534.30",
@@ -834,17 +834,17 @@ class Main:
   "WeRead/3.5.0 WRBrand/HUAWEI Dalvik/2.1.0 (Linux; U; Android 6.0; DIG-AL00 Build/HUAWEIDIG-AL00)",
   "WeRead/4.1.1 WRBrand/Huawei Dalvik/2.1.0 (Linux; U; Android 7.0; EVA-L09 Build/HUAWEIEVA-L09)",
   "WeRead/4.1.1 WRBrand/HUAWEI Dalvik/2.1.0 (Linux; U; Android 6.0.1; HUAWEI RIO-AL00 Build/HuaweiRIO-AL00)",
-  "Dalvik/2.1.0 (Linux; U; Android 5.1)",
-  "Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-P7510 Build/IMM76D)"
-  "Dalvik/2.1.0 (Linux; U; Android 5.1; AFTM Build/LMY47O)",
-  "Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J700F Build/MMB29K) [FBAN/Orca-Android;FBAV/181.0.0.12.78;FBPN/com.facebook.orca;FBLC/tr_TR;FBBV/122216364;FBCR/Turk Telekom;FBMF/samsung;FBBD/samsung;FBDV/SM-J700F;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM{density=3.0,width=720,height=1440}",
-  "Dalvik/1.6.0 (Linux; U; Android 4.4.2; ASUS_T00Q Build/KVT49L)UNTRUSTED/1.0C-1.1; Opera Mini/att/4.2",
-  "Dalvik/1.4.0 (Linux; U; Android 2.3.6; HUAWEI Y210-0100 Build/HuaweiY210-0100)",
-  "Dalvik/1.4.0 (Linux; U; Android 2.3.6; GT-S5570 Build/GINGERBREAD)",
-  "Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; Galaxy Nexus Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.3",
-  "Dalvik/1.6.0 (Linux; U; Android 4.2.2; Galaxy Nexus Build/JDQ39)",
-  "Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60",
-  "Dalvik/2.1.0 (Linux; U; Android 5.1; PRO 5 Build/LMY47D)",
+  "Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+  "Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
   "Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36",
@@ -937,7 +937,7 @@ class Main:
 
 	def api(self, uid, pwx):
 		rua = random.choice([
-			"Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]",
+			"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
 			  "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)",
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E; GWX:QUALIFIED)",
@@ -1274,17 +1274,17 @@ class Main:
   "WeRead/3.5.0 WRBrand/HUAWEI Dalvik/2.1.0 (Linux; U; Android 6.0; DIG-AL00 Build/HUAWEIDIG-AL00)",
   "WeRead/4.1.1 WRBrand/Huawei Dalvik/2.1.0 (Linux; U; Android 7.0; EVA-L09 Build/HUAWEIEVA-L09)",
   "WeRead/4.1.1 WRBrand/HUAWEI Dalvik/2.1.0 (Linux; U; Android 6.0.1; HUAWEI RIO-AL00 Build/HuaweiRIO-AL00)",
-  "Dalvik/2.1.0 (Linux; U; Android 5.1)",
-  "Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-P7510 Build/IMM76D)"
-  "Dalvik/2.1.0 (Linux; U; Android 5.1; AFTM Build/LMY47O)",
-  "Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J700F Build/MMB29K) [FBAN/Orca-Android;FBAV/181.0.0.12.78;FBPN/com.facebook.orca;FBLC/tr_TR;FBBV/122216364;FBCR/Turk Telekom;FBMF/samsung;FBBD/samsung;FBDV/SM-J700F;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM{density=3.0,width=720,height=1440}",
-  "Dalvik/1.6.0 (Linux; U; Android 4.4.2; ASUS_T00Q Build/KVT49L)UNTRUSTED/1.0C-1.1; Opera Mini/att/4.2",
-  "Dalvik/1.4.0 (Linux; U; Android 2.3.6; HUAWEI Y210-0100 Build/HuaweiY210-0100)",
-  "Dalvik/1.4.0 (Linux; U; Android 2.3.6; GT-S5570 Build/GINGERBREAD)",
-  "Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; Galaxy Nexus Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.3",
-  "Dalvik/1.6.0 (Linux; U; Android 4.2.2; Galaxy Nexus Build/JDQ39)",
-  "Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60",
-  "Dalvik/2.1.0 (Linux; U; Android 5.1; PRO 5 Build/LMY47D)",
+  "Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
+"Dalvik/2.1.0 (Linux; U; Android 10.0.0; Mi Note 10 Lite Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/ETISALAT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]"
   "Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36",
